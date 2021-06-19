@@ -1,50 +1,48 @@
 # Index of CMPM 120 Examples
 An index of example repositories for Phaser projects in CMPM 120.
 
-[Utilities](https://github.com/nathanaltice/Utilities)
+## [A Very Capable Game](https://github.com/nathanaltice/AVeryCapableGame)
 
-[Paddle Parkour P3](https://github.com/nathanaltice/PaddleParkourP3)
+## [Asset Bonanza](https://github.com/nathanaltice/AssetBonanza)
 
-[A Very Capable Game](https://github.com/nathanaltice/AVeryCapableGame)
+## [Big Bodies](https://github.com/nathanaltice/BigBodies)
 
-[Clean Pop](https://github.com/nathanaltice/CleanPop)
+## [Camera Lucida](https://github.com/nathanaltice/CameraLucida)
 
-[Asset Bonanza](https://github.com/nathanaltice/AssetBonanza)
+## [Clean Pop](https://github.com/nathanaltice/CleanPop)
 
-[They Are Listening](https://github.com/nathanaltice/TheyAreListening)
+## [Dialogging](https://github.com/nathanaltice/Dialogging)
 
-[Framing](https://github.com/nathanaltice/Framing)
+## [FSM](https://github.com/nathanaltice/FSM)
 
-[Yas Tween](https://github.com/nathanaltice/YasTween)
+## [Framing](https://github.com/nathanaltice/Framing)
 
-[Party Cool FX](https://github.com/nathanaltice/PartyCoolFX)
+## [Layer Cake](https://github.com/nathanaltice/Layer-Cake)
 
-[Layer Cake](https://github.com/nathanaltice/Layer-Cake)
+## [Low Key](https://github.com/nathanaltice/LowKey)
 
-[Scenesters](https://github.com/nathanaltice/Scenesters)
+## [Mappy](https://github.com/nathanaltice/Mappy)
 
-[Mappy](https://github.com/nathanaltice/Mappy)
+## [Movement Studies](https://github.com/nathanaltice/MovementStudies)
 
-[Secret of the Ooze](https://github.com/nathanaltice/SecretoftheOoze)
+## [Paddle Parkour P3](https://github.com/nathanaltice/PaddleParkourP3)
 
-[Low Key](https://github.com/nathanaltice/LowKey)
+## [Party Cool FX](https://github.com/nathanaltice/PartyCoolFX)
 
-[Scrolling Styles](https://github.com/nathanaltice/ScrollingStyles)
+## [Rocket Patrol Redux](https://github.com/nathanaltice/RocketPatrolRedux)
 
-[Dialogging](https://github.com/nathanaltice/Dialogging)
+## [Scenesters](https://github.com/nathanaltice/Scenesters)
 
-[Camera Lucida](https://github.com/nathanaltice/CameraLucida)
+## [Scrolling Styles](https://github.com/nathanaltice/ScrollingStyles)
 
-[Sinusoidal](https://github.com/nathanaltice/Sinusoidal)
+## [Secret of the Ooze](https://github.com/nathanaltice/SecretoftheOoze)
 
-[FSM](https://github.com/nathanaltice/FSM)
+## [Sinusoidal](https://github.com/nathanaltice/Sinusoidal)
 
-[Tank Soccer](https://github.com/nathanaltice/TankSoccer)
+## [Tank Soccer](https://github.com/nathanaltice/TankSoccer)
 
-[Big Bodies](https://github.com/nathanaltice/BigBodies)
+## [They Are Listening](https://github.com/nathanaltice/TheyAreListening)
 
-[Movement Studies](https://github.com/nathanaltice/MovementStudies)
+## [Utilities](https://github.com/nathanaltice/Utilities)
 
-[Rocket Patrol Redux](https://github.com/nathanaltice/RocketPatrolRedux)
-
-
+## [Yas Tween](https://github.com/nathanaltice/YasTween)
