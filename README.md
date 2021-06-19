@@ -3,6 +3,14 @@ An index of example repositories for Phaser projects in CMPM 120.
 
 ## [A Very Capable Game](https://github.com/nathanaltice/AVeryCapableGame)
 
+Active Pointer  |	A Very Capable Game  |	main.js
+Background Color  |	A Very Capable Game  |	main.js
+Passing Data Between Scenes  |	A Very Capable Game  |	main.js
+Random Hex Color  |	A Very Capable Game  |	main.js
+Scene init method  |	A Very Capable Game  |	main.js
+Scene Management  |	A Very Capable Game  |	main.js
+Text Configuration  |	A Very Capable Game  |	main.js
+
 ## [Asset Bonanza](https://github.com/nathanaltice/AssetBonanza)
 
 ## [Big Bodies](https://github.com/nathanaltice/BigBodies)
